@@ -45,6 +45,7 @@ const cloudSettings: CloudSettings = {
   providers: [
     StatusBar,
     SplashScreen,
+    OneSignal,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })

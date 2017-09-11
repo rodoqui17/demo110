@@ -11,10 +11,10 @@ import { MyApp } from './app.component';
 
 const cloudSettings: CloudSettings = {
   core: {
-    app_id: '20c91c51'
+    app_id: '3b214d14'
   },
   push: {
-    sender_id: '564553849534',
+    sender_id: '143728972842',
     pluginConfig: {
       ios: {
         badge: true,
